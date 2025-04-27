@@ -1,6 +1,6 @@
 # Microservices Application
 
-This repository contains a microservices application built using **Hexagonal Architecture**. The application comprises several independent services that interact with each other to provide a seamless user experience.
+This repository contains a microservices application built using **Hexagonal Architecture** (on Order Service). The application comprises several independent services that interact with each other to provide a seamless user experience.
 
 ## Table of Contents
 - [Overview](#overview)
